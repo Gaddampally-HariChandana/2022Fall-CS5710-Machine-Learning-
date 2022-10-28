@@ -11,10 +11,11 @@ email : hxg68820@ucmo.edu
 
 Assignment-3
 
- VIDEO URL :
+ VIDEO URL : https://ucmo0-my.sharepoint.com/:v:/g/personal/hxg68820_ucmo_edu/EYGw7E39eS5DqxPTzTNAsBoBhYwN2GRhGQiKAIG8VQOikg?e=XmOyut
  
+DESCRIPTION : 
 
-DESCRIPTION : Understood and worked on the concepts of  machine learning :
+Understood and worked on the concepts of  machine learning :
 
 1. data understanding of correlations and plots.
 
