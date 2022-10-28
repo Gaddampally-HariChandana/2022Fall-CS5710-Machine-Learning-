@@ -9,6 +9,23 @@ ID : 700726882
 
 email : hxg68820@ucmo.edu
 
+Assignment-3
+
+ VIDEO URL :
+ 
+
+DESCRIPTION : Understood and worked on the concepts of  machine learning :
+
+1. data understanding of correlations and plots.
+
+2. data preparation on titanic dataset, glass dataset.
+
+3. data modeling on 4 variants of naive bayes & 2 of SVC.
+
+4. evaluation of accuracy, classification_report.
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 Assignment-2
  VIDEO URL :https://ucmo0-my.sharepoint.com/:v:/g/personal/hxg68820_ucmo_edu/EXt9VXxk6_NGlhqgWVBo8dABCR8QoBm5KNZSVdlsyZ0tVg?e=dwHHm4
 
