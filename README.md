@@ -11,7 +11,7 @@ email : hxg68820@ucmo.edu
 
 ASSIGNMENT- #4
 
-VIDEO URL :
+VIDEO URL : https://ucmo0-my.sharepoint.com/:v:/g/personal/hxg68820_ucmo_edu/EVYSiebMIr1Cq-yzG3UWXCwBtC4LId4Ia5hrNb3Og25S7A?e=avYkO0
 
 DESCRIPTION :
 
@@ -28,7 +28,7 @@ Calculated MSE & plotted graph to visualize train data and test data.
 
 3. Performed feature scaling and applied kmeans algorithm on the scaled features and calculated silhouette score which (I got) is 0.1976074492720698
 
-Here, after performing scaling the silhouette score got reduced. 
+Here, after performing scaling the silhouette score got dropped. 
 
 The reason behind this poor silhouette score would be because of data skewness, which doesn't follow normal distribution.
 and the other reason would be due to scaling, which made it even more difficult to seperate clusters.
