@@ -15,6 +15,24 @@ VIDEO URL :
 
 DESCRIPTION :
 
+Had better understanding on the concepts of Linear Regression and K-means clustering like cluster selection using elbow method.
+
+Had good practical experience on calculating silhoeutte score, choosing clustering methods & scaling.
+
+In the ICP,
+
+1. Applied linear regression to the salary dataset provided and splitted train and test data having test data as 33%.
+Calculated MSE & plotted graph to visualize train data and test data.
+
+2. Applied K-means clustering using elbow method to find good number of clusters and calculated silhouette score which (I got) is 0.4657118789980141
+
+3. Performed feature scaling and applied kmeans algorithm on the scaled features and calculated silhouette score which (I got) is 0.1976074492720698
+
+Here, after performing scaling the silhouette score got reduced. 
+
+The reason behind this poor silhouette score because of data skewness, which doesn't follow normal distribution.
+and the other reason would be due to scaling, which made it even more difficult to seperate clusters.
+
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ASSIGNMENT- #3
