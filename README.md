@@ -30,7 +30,7 @@ Calculated MSE & plotted graph to visualize train data and test data.
 
 Here, after performing scaling the silhouette score got reduced. 
 
-The reason behind this poor silhouette score because of data skewness, which doesn't follow normal distribution.
+The reason behind this poor silhouette score would be because of data skewness, which doesn't follow normal distribution.
 and the other reason would be due to scaling, which made it even more difficult to seperate clusters.
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
