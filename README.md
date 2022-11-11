@@ -25,7 +25,7 @@ I have learnt that PCA consists of two methods:
 i)data compression and
 ii) data visualization.
 
-The difference between PCA & LDA is that, PCA & LDA both are dimenstionality reduction techniques. LDA tries to find feature subspace which maximizes class separability & PCA doesn't have such constraints. So, LDA we used y variable also while fitting the data.
+The difference between PCA & LDA is that, PCA & LDA both are dimenstionality reduction techniques. LDA tries to find feature subspace which maximizes class separability & PCA doesn't have such constraints. So, for LDA we used y variable also while fitting the data.
 
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------
