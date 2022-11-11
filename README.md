@@ -12,7 +12,7 @@ email : hxg68820@ucmo.edu
 
 ASSIGNMENT- #5
 
-VIDEO URL : 
+VIDEO URL : https://ucmo0-my.sharepoint.com/:v:/g/personal/hxg68820_ucmo_edu/EUCILraLo6dJtqAB-Qkb2jgB-sMJULb3QW9nP7Jpyb-A9w?e=R6eJV5
 
 
 DESCRIPTION :
@@ -23,7 +23,7 @@ Had good practical experience on calculating silhoeutte score, SVM performance, 
 In the ICP,
 I have learnt that PCA consists of two methods:
 i)data compression and
-ii) data visualization
+ii) data visualization.
 
 The difference between PCA & LDA is that, PCA & LDA both are dimenstionality reduction techniques. LDA tries to find feature subspace which maximizes class separability & PCA doesn't have such constraints. So, LDA we used y variable also while fitting the data.
 
