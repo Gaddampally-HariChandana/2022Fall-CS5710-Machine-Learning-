@@ -9,6 +9,26 @@ ID : 700726882
 
 email : hxg68820@ucmo.edu
 
+
+ASSIGNMENT- #5
+
+VIDEO URL : 
+
+
+DESCRIPTION :
+
+Had better understanding on the concepts of Principal component analysis and LDA.
+Had good practical experience on calculating silhoeutte score, SVM performance, choosing clustering methods & scaling.
+
+In the ICP,
+I have learnt that PCA consists of two methods:
+i)data compression and
+ii) data visualization
+
+The difference between PCA & LDA is that, PCA & LDA both are dimenstionality reduction techniques. LDA tries to find feature subspace which maximizes class separability & PCA doesn't have such constraints. So, LDA we used y variable also while fitting the data.
+
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ASSIGNMENT- #4
 
 VIDEO URL : https://ucmo0-my.sharepoint.com/:v:/g/personal/hxg68820_ucmo_edu/EVYSiebMIr1Cq-yzG3UWXCwBtC4LId4Ia5hrNb3Og25S7A?e=avYkO0
