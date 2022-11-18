@@ -12,9 +12,35 @@ email : hxg68820@ucmo.edu
 
 ASSIGNMENT- #6
 
-VIDEO URL : 
+VIDEO URL : https://ucmo0-my.sharepoint.com/:v:/g/personal/hxg68820_ucmo_edu/Ec4icl7cMWFIqp4dA1OLHP8Bim0zOVZPZEFjmAjKx6ZxOA?e=X5HaW4 
+
 
 DESCRIPTION :
+
+Had better understanding on the concepts of Hierarchial clustering.
+
+Had good practical experience on applying agglomerative clustering and calculating silhouette scores and visualizing by plotting the graphs.
+
+In this ICP,
+
+1.	Using Pandas imported the required CC General dataset. 
+
+2.	Using head() to view the type of data & columns.
+
+3.	Using dataframe.describe() for data description of the dataset.
+
+4.	Preprocessing the data by removing the categorical column and filling the missing values.
+
+5.	Applying StandardScaler() and normalize() functions to scale and normalize raw input data.
+
+6.	Using PCA with K=2 to reduce the input dimensionality to two.
+
+7.	Applying Agglomerative Clustering with k=2,3,4 & 5 on reduced features and visualize result for each k value using scatter plot.
+
+8.	Evaluate different variations using Silhouette Scores and Visualize results with a bar chart.
+
+9. Taking 6 points and calculating the clustering of Single link, complete link and average link dendograms.
+
 
 
 
