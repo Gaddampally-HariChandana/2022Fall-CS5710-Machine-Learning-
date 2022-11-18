@@ -39,7 +39,7 @@ In this ICP,
 
 8.	Evaluate different variations using Silhouette Scores and Visualize results with a bar chart.
 
-9. Taking 6 points and calculating the clustering of Single link, complete link and average link dendograms.
+9. Using the given 6 points of attributes from the tables provided in ICP and calculating the clustering of Single link, complete link and average link dendograms.
 
 
 
