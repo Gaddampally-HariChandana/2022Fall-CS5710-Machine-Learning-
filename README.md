@@ -11,11 +11,11 @@ email : hxg68820@ucmo.edu
 
 PROJECT DETAILS:
 
-Title: 
+TITLE: 
 
 STUDY OF TWEET CLASSIFICATION FOR DISASTER MANAGEMENT USING LSTM and ANN
 
-Team Members:
+TEAM MEMBERS:
 
 Hari Chandana Gaddampally - 700726882 & email: hxg68820@ucmo.edu
 
