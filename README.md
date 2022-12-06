@@ -9,6 +9,24 @@ ID : 700726882
 
 email : hxg68820@ucmo.edu
 
+PROJECT DETAILS:
+
+Title: 
+
+STUDY OF TWEET CLASSIFICATION FOR DISASTER MANAGEMENT USING LSTM and ANN
+
+Team Members:
+
+Hari Chandana Gaddampally - 700726882 & email: hxg68820@ucmo.edu
+
+Ravipati Bhanu Chandu - 700728966 & email: bxr89660@ucmo.edu
+
+Pavan kalyan rao yelamati - 700729168 & email: pxy91680@ucmo.edu
+
+
+
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ASSIGNMENT- #6
 
